@@ -7,3 +7,9 @@
 
 # .tfvars files
 *.tfvars
+
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
